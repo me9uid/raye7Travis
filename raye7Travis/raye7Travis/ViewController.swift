@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    fawzy is stupid writing code outside of method
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
